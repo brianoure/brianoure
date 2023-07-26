@@ -1,5 +1,5 @@
 # Brian Oure
-## よろしく おねがいします
+よろしく おねがいします
 - 👋 Hi, I’m @brianoure
 - 👀 I’m interested in Embedded Systems engineering, Signal processing, Electrical power engineering, Web development and Graphics
 - 🌱 I’m currently involved in Space Systems engineering focussing on wireless telecommunications, algorithm design and data analysis
